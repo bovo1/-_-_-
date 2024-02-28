@@ -18,6 +18,8 @@ YOLO가 요구하는 데이터구조를 만든 다음 훈련시킨 결과 질환
 
 25519개의 데이터를 10epoch로 훈련한 결과 다음과 같습니다.  
 ---
+![D_61_18991230_IM_0020_NOR_Ch03_20181206_0653](https://github.com/bovo1/pet_chest_disease/assets/110110403/86f08581-3c37-4ed4-b088-edd0f2ec60ad)  
+
 ![confusion_matrix_normalized](https://github.com/bovo1/-_-_-/assets/110110403/fec7a403-e3f1-45dd-8c1f-47a3f735f0d2)
 
 confusion_matrix를 보면 척추 polygon을 제외한 Ch01 클래스의 정확도가 많이 낮은 걸 알 수 있습니다.  
