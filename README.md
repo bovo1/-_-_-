@@ -1,5 +1,6 @@
 # 반려동물 흉부 질환 판단 모델
 ---
+2024-02-01 ~ 2024-02-18  
 https://colab.research.google.com/drive/1mVTBbbPZBbaMP_j1T6c3WQS8jFaXhPEz?usp=drive_link
 
 YOLOv8 의 segmentation 모델을 사용하여 흉부질환을 판단하는 모델을 제작했습니다.  
