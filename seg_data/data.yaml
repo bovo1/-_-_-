@@ -1,0 +1,10 @@
+names:
+- NOR_Ch01
+- ABN_Ch01
+- NOR_Ch02
+- ABN_Ch02
+- NOR_Ch03
+- ABN_Ch03
+nc: 6
+train: /content/drive/MyDrive/PetHealth/chest_disease/seg_data/images/train
+val: /content/drive/MyDrive/PetHealth/chest_disease/seg_data/images/val
